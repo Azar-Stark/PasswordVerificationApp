@@ -1,0 +1,25 @@
+$bg-color: yellow;
+$border-color: #1f7d8d;
+
+.passwordVerificationApp {
+  font-family: helvetica, arial, sans-serif;
+  padding: 2em;
+  border: 5px solid $border-color;
+
+  p {
+    background-color: $bg-color;
+  }
+
+  .label {
+    margin: 5px;
+    font-weight: bold;
+  }
+
+  .input {
+    margin-bottom: 10px;
+  }
+
+  .rules {
+    margin-top: 40px;
+  }
+}
