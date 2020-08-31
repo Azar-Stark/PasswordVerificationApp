@@ -5,6 +5,8 @@
 *.log
 
 # BlueJ files
+
+._*
 *.ctxt
 
 # Mobile Tools for Java (J2ME)
