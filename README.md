@@ -40,7 +40,7 @@ a. Front-End - "npm install" & "npm start"
   A successful API will demonstrate storing the response in the API state.
   
 b. Back-End - "mvn clean install" & "mvn spring-boot:run"
-  b.1 User can enter to H2 through localhost:8081 with username/pass: admin/admin to check changes in DB.
+  b.1 User can enter to H2 via localhost:8081/h2-console with username/pass: admin/admin to check changes in DB.
   
   The DB initializes with a username/pass of DockDock/DockDock123.
   
