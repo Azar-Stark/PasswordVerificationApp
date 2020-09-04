@@ -3,7 +3,7 @@ PasswordVerificationApp is a web application demonstrating an end to end app usi
 
 ## Front-End
 
-A simulation of verifing password for an account, where the user enter a username, a password and re-enter password to confirm match, and rules, which are:
+A simulation of verifing password for an account, where the user enters a username, a password and re-enter password to confirm match, and rules, which are:
 1. At least one lowercase character.
 2. At least one uppercase character.
 3. At least one digit.
